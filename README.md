@@ -6,6 +6,7 @@
 - Go
 - Rust
 - TypeScript
+- Python
 - C++
 - php
 
@@ -16,11 +17,9 @@
 ### Used frameworks
 - Next.js
 - Nuxt.js
-- SvelteKit
 
 ## Current projects
-- Personal website [nishyda.tech](https://nishyda.tech) in development
-- Go library [go-nishy](https://github.com/nishyda/go-nishy)
+- Personal website [eaji.software](https://eaji.software) in development
 
 ## Trophy collection
-[![trophy](https://github-profile-trophy.vercel.app/?username=nishyda&theme=chalk&column=3&row=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=emerikaji&theme=chalk&column=3&row=3)](https://github.com/ryo-ma/github-profile-trophy)
