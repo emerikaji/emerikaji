@@ -15,7 +15,7 @@
 - [Ebitengine](https://github.com/hajimehoshi/ebiten)
 - [Gin](https://github.com/gin-gonic/gin)
 
-### Fqvorite frameworks
+### Favorite frameworks
 - Next.js
 
 ## Trophy collection
